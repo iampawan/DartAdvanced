@@ -2,6 +2,9 @@
 
 ## Linq / Functional Collections
 
+## Algos - Linear & Binary Search
+
+
 
 A sample command-line application.
 
